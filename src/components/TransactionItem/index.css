@@ -1,0 +1,34 @@
+/* Write your CSS here */
+
+.delete-button {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}
+
+.delete-img {
+  width: 25px;
+  margin-left: 120px;
+}
+
+.list-item {
+  display: flex;
+  border: 2px solid #d7dfe9;
+  padding: 20px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.name {
+  color: #334155;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.number {
+  color: #334155;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin-left: 175px;
+  margin-right: 190px;
+}
